@@ -31,3 +31,18 @@ footer {
   margin-top: 90px;
 }
 
+@media (max-width: 800px) {
+
+  .footer-logo {
+    margin-top: 60px;
+  }
+
+  .footer-tel {
+    font-size: 20px;
+  }
+
+  .copyright {
+    margin-top: 50px;
+  }
+
+}
